@@ -1,0 +1,3 @@
+netstat -an |find /i “listening”
+
+scp /path/to/file/you/want/to/move luis@172.16.1.10:/home/luis
