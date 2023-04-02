@@ -1,9 +1,3 @@
-# server.py
-# script to create a server socket to listen for messages
-# Owen Lo Nov 2016
-# Change Log:
-# Oct 2017  Gaye Cleary Updated to python3 & expanded
-# expanded to use as bot in group project Napier University 2021.
 # For documentation on socket library, see....
 # https://docs.python.org/3/library/socket.html
 
