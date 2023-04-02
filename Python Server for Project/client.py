@@ -1,8 +1,3 @@
-# client_start.py
-# start script to create send messages to a listening server socket
-# Owen Lo Nov 2016; expanded Gaye Cleary Nov 2017;
-# expanded to use as bot in group project Napier University 2021.
-# PEP8 Nov 2018
 # For documentation on socket library, see....
 # https://docs.python.org/3/library/socket.html
 import socket
